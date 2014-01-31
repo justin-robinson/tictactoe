@@ -3,8 +3,8 @@ tictactoe
 
 Requirements
 -------------
--Python 3.3.3
--graphics.py *(This needs the custom version included in the repo)*
+    -Python 3.3.3
+    -graphics.py *(This needs the custom version included in the repo)*
 
 **Usage**
 -------------
