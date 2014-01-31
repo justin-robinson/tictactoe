@@ -8,8 +8,8 @@ Requirements
 
 **Usage**
 -------------
-  from tictactoe import TicTacToe
-  t=TicTacToe()
-  t.go()
+    from tictactoe import TicTacToe
+    t=TicTacToe()
+    t.go()
   
 TicTacToe game should pop up :D
